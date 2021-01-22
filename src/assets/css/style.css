@@ -1,0 +1,21 @@
+.text {
+  text-transform: uppercase;
+  font-size: 2vw;
+  background: linear-gradient(to right, #17a0a0 0%, #062068 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+img {
+  width: 250px;
+}
+
+.container {
+  border: 1px solid #17a0a0;
+  padding: 3vh;
+  margin: auto;
+  margin-top: 15px;
+  max-width: 600px;
+  display: flex;
+  align-items: center;
+}
